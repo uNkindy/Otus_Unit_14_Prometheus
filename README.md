@@ -41,4 +41,4 @@ public (active)
 - Количество переданных байт;
 - Количество принятых байт;
 
-#### 7. Скриншот dashboard [Stanislav Krivosheev]() прилагаю.
+#### 7. Скриншот dashboard [Stanislav Krivosheev](https://dropmefiles.com/2z39Q) прилагаю.

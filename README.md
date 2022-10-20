@@ -7,7 +7,7 @@
 
 [root@devops prometheus-2.37.1.linux-amd64]#
 ```
-#### 2. Настроен конфигурационный файл [prometheus.yml](). Настроено получение метрик с хоста, на котором установлен Centos 7;
+#### 2. Настроен конфигурационный файл [prometheus.yml](https://github.com/uNkindy/Otus_Unit_14_Prometheus/blob/main/prometheus.yml). Настроено получение метрик с хоста, на котором установлен Centos 7;
 #### 3. На хост с Centos 7 установлен и запущен node-exporter;
 #### 4. Скачан, настроен и запущен докер-контейнер с Grafana:
 ```console
